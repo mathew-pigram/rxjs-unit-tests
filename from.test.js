@@ -2,7 +2,7 @@ const marbles = require('jest-marbles');
 const rxjs = require('rxjs');
 
 
-test('forkJoin', () => {
+test('from', () => {
 
     const source = ['a', 'b', 'c', 'd'];
 
